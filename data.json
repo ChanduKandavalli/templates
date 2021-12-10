@@ -1,0 +1,40 @@
+[
+    {
+        "Id" : 0,
+        "Name" : "Chandu",
+        "Surname" : "K",
+        "Trainee" : "CGCS",
+        "Age" : 22
+    } ,
+    {
+        "Id" : 1,
+        "Name" : "vijay",
+        "Surname" : "M",
+        "Trainee" : "CGCS",
+        "Age" : 21
+    } ,
+    {
+        "Id" : 2,
+        "Name" : "Eswar",
+        "SurName" : "A",
+        "Trainee" : "CGCS",
+        "Age" : 22
+    },
+    {
+        "Id" : 3,
+        "Name" : "Nikhil",
+        "Surname" : "D",
+        "Trainee" : "CGCS",
+        "Age" : 23
+    },
+
+    {
+        "Id" : 4,
+        "Name" : "Akash",
+        "Surname" : "K",
+        "Trainee" : "CGCS",
+        "Age" : 23
+    }
+ 
+
+]
